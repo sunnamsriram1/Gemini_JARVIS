@@ -1,0 +1,105 @@
+
+Q: Hi Dud Good Mrg
+A: Hi there! Good morning to you too! How can I help you today?
+--------------------------------------------------
+
+Q: What are U Doing
+A: Oh, hey! I'm here, processing information and ready to help you with whatever you need. Essentially, I'm "doing" what I do best: being a helpful AI.
+
+What about you? What are you up to?
+--------------------------------------------------
+
+Q: What is CPU
+A: The **CPU**, which stands for **Central Processing Unit**, is often referred to as the "brain" of a computer. It's a fundamental hardware component that performs the vast majority of processing inside a computer.
+
+Here's a breakdown of what it is and what it does:
+
+1.  **The "Brain" of the Computer:** Just as your brain processes information, makes decisions, and sends signals throughout your body, the CPU does the same for a computer. It executes instructions, performs calculations, and manages the flow of information.
+
+2.  **Core Function: Executing Instructions:**
+    *   Every action you take on a computer (clicking an icon, typing a letter, running a program, browsing the web) involves a series of instructions.
+    *   The CPU fetches these instructions from the computer's memory (RAM), decodes them, executes them, and then stores the results back into memory. This cycle happens billions of times per second.
+
+3.  **Performs Calculations:**
+    *   It contains an **Arithmetic Logic Unit (ALU)** that handles all the arithmetic operations (addition, subtraction, multiplication, division) and logical operations (comparisons like "is A greater than B?").
+
+4.  **Manages Data Flow:**
+    *   While it doesn't store large amounts of data permanently, the CPU orchestrates the movement of data between other components like RAM, storage drives (SSD/HDD), and input/output devices.
+
+5.  **Key Characteristics/Metrics:**
+    *   **Cores:** Modern CPUs often have multiple "cores" (e.g., dual-core, quad-core, octa-core). Each core is essentially an independent processing unit, allowing the CPU to handle multiple tasks simultaneously, improving multitasking and overall performance.
+    *   **Clock Speed (GHz - Gigahertz):** This indicates how many instruction cycles the CPU can complete per second. A higher clock speed generally means faster processing, though other factors like core count and architecture are also crucial.
+    *   **Threads:** Some CPUs use "hyper-threading" (Intel) or "simultaneous multi-threading" (AMD) to make each physical core appear as two logical cores to the operating system, allowing a single core to handle two streams of instructions more efficiently.
+    *   **Cache (L1, L2, L3):** This is a small amount of extremely fast memory located directly on the CPU. It stores frequently accessed data and instructions, allowing the CPU to retrieve them much faster than from main RAM, significantly speeding up operations.
+    *   **Architecture (e.g., x86, ARM):** This refers to the fundamental design and instruction set the CPU uses. x86 is dominant in desktops and laptops, while ARM is prevalent in smartphones, tablets, and increasingly in laptops and servers.
+
+6.  **Where You Find CPUs:**
+    *   **Personal Computers:** Desktops, laptops (Intel Core i-series, AMD Ryzen)
+    *   **Mobile Devices:** Smartphones, tablets (Apple A-series, Qualcomm Snapdragon, MediaTek Dimensity)
+    *   **Servers:** Data centers (Intel Xeon, AMD EPYC)
+    *   **Embedded Systems:** Cars, smart appliances, industrial machinery
+
+In essence, the CPU is the powerhouse that enables your computer to run software, perform tasks, and interact with you seamlessly. Without a functional CPU, a computer is just an inert collection of parts.
+--------------------------------------------------
+
+Q: Tell me Today Telugu News All Tv chanals
+A: నమస్తే! నేను ఒక AI ని కాబట్టి, నాకు రియల్-టైమ్, ప్రస్తుత క్షణానికి సంబంధించిన లైవ్ వార్తా నవీకరణలు అందుబాటులో ఉండవు. నా సమాచారం నా చివరి శిక్షణ డేటా ఆధారంగా ఉంటుంది.
+
+"ఈరోజు" అనగా [Current Date - e.g., జూలై 20, 2024] తెలుగు వార్తా ఛానెళ్లలో ప్రసారమయ్యే ప్రధాన వార్తాంశాలను తెలుసుకోవడానికి, మీరు నేరుగా కింది ఛానెల్‌ల వెబ్‌సైట్‌లను సందర్శించడం లేదా వారి లైవ్ ప్రసారాలను చూడటం ఉత్తమం.
+
+అయితే, సాధారణంగా ఏ రోజు అయినా ప్రధానంగా చర్చకు వచ్చే మరియు వార్తల్లో ఉండే కొన్ని అంశాలు ఇక్కడ ఉన్నాయి:
+
+**ప్రధాన వార్తాంశాలు (సాధారణంగా):**
+
+1.  **రాష్ట్ర రాజకీయాలు (ఆంధ్రప్రదేశ్ & తెలంగాణ):**
+    *   **ఆంధ్రప్రదేశ్:**
+        *   నూతన ప్రభుత్వం (టీడీపీ-జనసేన-బీజేపీ కూటమి) తీసుకుంటున్న కీలక నిర్ణయాలు, పాలన సంస్కరణలు.
+        *   సంక్షేమ పథకాల అమలు, సమీక్షలు.
+        *   రాజధాని, కీలక ప్రాజెక్టుల పునఃపరిశీలన.
+        *   ప్రతిపక్ష వై.ఎస్.ఆర్.సి.పి. స్పందనలు, విమర్శలు.
+        *   శాసనసభ సమావేశాలు (జరుగుతున్నట్లయితే).
+    *   **తెలంగాణ:**
+        *   కాంగ్రెస్ ప్రభుత్వం చేపట్టిన కార్యక్రమాలు, హామీల అమలు.
+        *   ముఖ్యమంత్రి, మంత్రుల పర్యటనలు, సమీక్షా సమావేశాలు.
+        *   ప్రతిపక్ష బీఆర్ఎస్ పార్టీ విమర్శలు, రాజకీయ కార్యకలాపాలు.
+        *   స్థానిక సంస్థల ఎన్నికలు లేదా ఉప ఎన్నికలకు సంబంధించిన చర్చలు.
+
+2.  **జాతీయ వార్తలు:**
+    *   పార్లమెంట్ సమావేశాలు, కేంద్ర ప్రభుత్వ నిర్ణయాలు.
+    *   దేశవ్యాప్తంగా కీలక రాజకీయ పరిణామాలు, ఇతర రాష్ట్రాల ఎన్నికలు/సంక్షోభాలు.
+    *   ఆర్థిక వ్యవస్థ, ద్రవ్యోల్బణం, ఇంధన ధరలు.
+    *   న్యాయస్థానాల తీర్పులు, కీలక కేసులు.
+
+3.  **వాతావరణ వార్తలు:**
+    *   తెలంగాణ, ఆంధ్రప్రదేశ్‌లలో వర్షపాతం, రుతుపవనాల తాజా పరిస్థితి.
+    *   వాతావరణ హెచ్చరికలు, అల్పపీడనాలు (ఉంటే).
+
+4.  **ఆర్థిక వార్తలు:**
+    *   స్టాక్ మార్కెట్ కదలికలు.
+    *   వ్యాపార, వాణిజ్య వార్తలు.
+
+5.  **క్రైమ్ వార్తలు:**
+    *   కీలకమైన నేరాలు, హత్యలు, దొంగతనాలు, సైబర్ క్రైమ్ వార్తలు.
+    *   పోలీసు దర్యాప్తులు.
+
+6.  **క్రీడలు & వినోదం:**
+    *   జరుగుతున్న క్రీడా పోటీలు (ఉదా: క్రికెట్ టోర్నమెంట్లు).
+    *   కొత్త సినిమా విడుదలలు, సినిమా పరిశ్రమ వార్తలు.
+
+**ప్రధాన తెలుగు న్యూస్ ఛానెల్స్:**
+
+ఈ ఛానెల్‌లు సాధారణంగా పైన చెప్పిన అన్ని అంశాలను కవర్ చేస్తాయి:
+
+*   **ETV ఆంధ్రప్రదేశ్ / తెలంగాణ**
+*   **TV9 తెలుగు**
+*   **NTV తెలుగు**
+*   **ABN ఆంధ్రజ్యోతి**
+*   **సాక్షి టీవీ**
+*   **V6 న్యూస్**
+*   **T న్యూస్**
+*   **HMTV**
+*   **మహా న్యూస్**
+*   **NTv**
+
+ఈ ఛానెల్స్ వెబ్‌సైట్‌లు లేదా YouTube ఛానెల్‌లను సందర్శించడం ద్వారా మీరు తాజా మరియు ఖచ్చితమైన వార్తలను పొందవచ్చు. ధన్యవాదాలు!
+--------------------------------------------------

@@ -1,0 +1,1 @@
+source setkey.sh && python Gemini_JARVIS_Bro_6v_enc.py
