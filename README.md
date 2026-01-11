@@ -5,7 +5,7 @@
 A **powerful terminal-based AI assistant** built with **Python**, optimized for **Termux & Linux**, powered by **Google Gemini API**.  
 Designed for **developers, hackers, automation engineers, and AI enthusiasts** who want a **fast, clean, intelligent CLI AI tool**.
 
-> #💻 Coded with by ❤️ **SUNNAM SRIRAM**
+> 💻 Coded with by ❤️ **SUNNAM SRIRAM**
 
 ---
 
