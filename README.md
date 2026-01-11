@@ -88,6 +88,8 @@ The assistant detects **Telugu Unicode characters** automatically.
 
 ### 🔹 Python Version
 ### 🔹 Required Python Modules
+### Frist ADD the Gemini API_Key setkey.sh
+### After Run this Command source setkey.sh && Gemini_JARVIS_Bro_6v_enc.py
 ```bash
 pip install requests colorama
 chomd +x Gemini_JARVIS_Bro_6v_enc.py
