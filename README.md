@@ -94,6 +94,7 @@ The assistant detects **Telugu Unicode characters** automatically.
 pip install requests colorama
 chomd +x Gemini_JARVIS_Bro_6v_enc.py
 source setkey.sh && python Gemini_JARVIS_Bro_6v_enc.py
+bash run_jarvis.sh
 python Gemini_JARVIS_Bro_6v_enc.py
 
 ```
